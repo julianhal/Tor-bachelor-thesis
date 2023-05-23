@@ -1,0 +1,408 @@
+{
+    "0": {
+        "timestamp": 1682812876.2032492,
+        "total_time": 1.2046070098876953,
+        "rtt": 0.2010183334350586,
+        "latency": 0.201212,
+        "ttfb": 0.330217,
+        "throughput": 2340.105410699095,
+        "circ_id": "3",
+        "circuit": [
+            "41EEC4CFA01E8982643F1AF3CD84315329D2B58E",
+            "B361D20C4346372885FC3FB4D168BF7CB08977EB",
+            "4154F933916022087165230DD5774BC168CA1F9C"
+        ]
+    },
+    "1": {
+        "timestamp": 1682812880.4158602,
+        "total_time": 1.3692429065704346,
+        "rtt": 0.2012925148010254,
+        "latency": 0.272064,
+        "ttfb": 0.610762,
+        "throughput": 1265.439425068142,
+        "circ_id": "5",
+        "circuit": [
+            "AA7630738F82C4DF26BB8EFF131564DACDEAC64C",
+            "BA76A31AF4CCA7273A4613A975C1C5E059FE301D",
+            "BEF35F8545AB34E6D5AF6D00D755F6A2F88A274D"
+        ]
+    },
+    "2": {
+        "timestamp": 1682812884.7933655,
+        "total_time": 1.3950221538543701,
+        "rtt": 0.19942927360534668,
+        "latency": 0.25209,
+        "ttfb": 0.508557,
+        "throughput": 1519.7628147658818,
+        "circ_id": "7",
+        "circuit": [
+            "ECEC8AEC6C988647E51014F4F20349E24E1DD6A6",
+            "31EBFFD7BC38A74F1D6CA5B1779136E0A95DDEFC",
+            "7C4B37F45CFF88B36C0A77DC3331FA58F29963DB"
+        ]
+    },
+    "3": {
+        "timestamp": 1682812889.1942792,
+        "total_time": 1.5991182327270508,
+        "rtt": 0.3025798797607422,
+        "latency": 0.203811,
+        "ttfb": 0.406356,
+        "throughput": 1901.8984538771172,
+        "circ_id": "9",
+        "circuit": [
+            "303509AB910EF207B7438C27435C4A2FD579F1B1",
+            "E0917901656ED5B363E4B5B1AFC56150B8857F5C",
+            "6B5EBC78572E3B5DB19B139ACE1D7BFCA2EB786E"
+        ]
+    },
+    "4": {
+        "timestamp": 1682812893.7995055,
+        "total_time": 1.3969213962554932,
+        "rtt": 0.17400527000427246,
+        "latency": 0.202068,
+        "ttfb": 0.506846,
+        "throughput": 1524.8804063717514,
+        "circ_id": "11",
+        "circuit": [
+            "9BD6765086E8F4B15D17F166F41911494ED78BDE",
+            "B771269758DC649748360BA8A2D13337F548AA21",
+            "B825430B0AC6DD79D952423FA036A1238C11D4A6"
+        ]
+    },
+    "5": {
+        "timestamp": 1682812898.2034183,
+        "total_time": 1.5173249244689941,
+        "rtt": 0.30359363555908203,
+        "latency": 0.164897,
+        "ttfb": 0.42218,
+        "throughput": 1830.643022242431,
+        "circ_id": "13",
+        "circuit": [
+            "3DCECAF7089B1C2CE3EA9504EE05CE754F4CF9A8",
+            "07816F5EF2E310139C2AF386E6E86BCFDCABFFAB",
+            "050A1245EEC76B7438337BAAF19F4AB0666B375F"
+        ]
+    },
+    "6": {
+        "timestamp": 1682812902.7285295,
+        "total_time": 1.4818031787872314,
+        "rtt": 0.29186344146728516,
+        "latency": 0.311783,
+        "ttfb": 0.519298,
+        "throughput": 1488.2700064498117,
+        "circ_id": "15",
+        "circuit": [
+            "C4A2975FE68426B942074C05A3C9694952B19F71",
+            "20BB62EC1CF5A13AF759B7D6E80704A20BF23530",
+            "29AA617EE5AF59515F206CCE0BF06354CDAD1956"
+        ]
+    },
+    "7": {
+        "timestamp": 1682812907.2178934,
+        "total_time": 1.7028565406799316,
+        "rtt": 0.3867673873901367,
+        "latency": 0.175589,
+        "ttfb": 0.611215,
+        "throughput": 1264.5616813271845,
+        "circ_id": "17",
+        "circuit": [
+            "F50755D5018C23F6CD115F23C95CCB2DC8B608B1",
+            "4E8FCF9D0C137BE95052B1A98DD317F5F9DB74A9",
+            "E9EFFF8F825DD636D2283CD20ADE436397F49FCF"
+        ]
+    },
+    "8": {
+        "timestamp": 1682812911.9262078,
+        "total_time": 1.405653476715088,
+        "rtt": 0.20323467254638672,
+        "latency": 0.20311,
+        "ttfb": 0.312582,
+        "throughput": 2471.9941925725047,
+        "circ_id": "19",
+        "circuit": [
+            "039A383F8CE5B98D1A84D2838D24930657E472E0",
+            "0D09185AF590E2943A94EF34E4BE3C265D891DC6",
+            "73628BEE346E50C3A60ECFF30A35D4452D1D074A"
+        ]
+    },
+    "9": {
+        "timestamp": 1682812916.34001,
+        "total_time": 1.3121843338012695,
+        "rtt": 0.2012035846710205,
+        "latency": 0.200209,
+        "ttfb": 0.433821,
+        "throughput": 1781.516478451256,
+        "circ_id": "21",
+        "circuit": [
+            "875F74A3DC14737BECA06F8B500022154D1A29D1",
+            "448F821108ED29AA408F281625F66BE1D4BC19F4",
+            "CF0F49C017ED14EFD54E953F428AE3508A7ED85A"
+        ]
+    },
+    "10": {
+        "timestamp": 1682812920.658728,
+        "total_time": 1.4700849056243896,
+        "rtt": 0.19994449615478516,
+        "latency": 0.301439,
+        "ttfb": 0.505441,
+        "throughput": 1529.0852588664197,
+        "circ_id": "23",
+        "circuit": [
+            "485492A420AFDFFFBCCA05DFF317CDCA43052C11",
+            "40B54CCB56D67432D169E693F0B258A0A97C5136",
+            "BEF35F8545AB34E6D5AF6D00D755F6A2F88A274D"
+        ]
+    },
+    "11": {
+        "timestamp": 1682812925.1356702,
+        "total_time": 1.5023419857025146,
+        "rtt": 0.15698671340942383,
+        "latency": 0.244193,
+        "ttfb": 0.449535,
+        "throughput": 1719.1913350977472,
+        "circ_id": "25",
+        "circuit": [
+            "AEC07407E73071B86E9E0ECDC13C03F5A3ACC1BD",
+            "AF9011B98279B7E9FB9EC6176F1E08C48ED09228",
+            "8678C629D35E2CA6A0D1A3D3F4C5F56134F5EB9A"
+        ]
+    },
+    "12": {
+        "timestamp": 1682812929.645636,
+        "total_time": 1.6009767055511475,
+        "rtt": 0.1758267879486084,
+        "latency": 0.199654,
+        "ttfb": 0.510273,
+        "throughput": 1514.516236476134,
+        "circ_id": "27",
+        "circuit": [
+            "F148A022E5E2BAD006E29C82C8D47C047A29958F",
+            "8E5B1326F580D02E539FDAABF99A3BDE1077252E",
+            "8ABF77A756425AC6A6399443D9DF09A253D78873"
+        ]
+    },
+    "13": {
+        "timestamp": 1682812934.2534862,
+        "total_time": 1.2915759086608887,
+        "rtt": 0.1992337703704834,
+        "latency": 0.202552,
+        "ttfb": 0.302491,
+        "throughput": 2554.7807119013783,
+        "circ_id": "29",
+        "circuit": [
+            "1A81BEE054FE5C6225A0D58169D72924B26E2B59",
+            "AF9011B98279B7E9FB9EC6176F1E08C48ED09228",
+            "8029928877A15A504D92996C65BFD4F0BDF4E702"
+        ]
+    },
+    "14": {
+        "timestamp": 1682812938.551906,
+        "total_time": 1.2462067604064941,
+        "rtt": 0.1727294921875,
+        "latency": 0.181236,
+        "ttfb": 0.380248,
+        "throughput": 2032.295889661845,
+        "circ_id": "31",
+        "circuit": [
+            "C1D4B670E8A6E614003DE75CECCD35ABE7C3997D",
+            "873C5AC9DCFBA2C852EB1EF4DB08EAAB472DB31B",
+            "209C8F817C662611D12A60EDE71078E23E17D1CD"
+        ]
+    },
+    "15": {
+        "timestamp": 1682812942.8053088,
+        "total_time": 1.4439764022827148,
+        "rtt": 0.19998693466186523,
+        "latency": 0.200373,
+        "ttfb": 0.402699,
+        "throughput": 1919.252360581089,
+        "circ_id": "33",
+        "circuit": [
+            "7238EAB91E1050B6C6BEDDFCFD7A2440869B114A",
+            "D11217B44873FD7C879E541844B4C20B9A7E5CFB",
+            "E97F58C06E7AA7175F9BE2A3C708325C03FB2FB1"
+        ]
+    },
+    "16": {
+        "timestamp": 1682812947.2558124,
+        "total_time": 1.1750729084014893,
+        "rtt": 0.19971513748168945,
+        "latency": 0.202593,
+        "ttfb": 0.490241,
+        "throughput": 1576.495733468209,
+        "circ_id": "35",
+        "circuit": [
+            "A875BFB83BD891F92EAEE02EC4FC435603FE8F53",
+            "8E5B1326F580D02E539FDAABF99A3BDE1077252E",
+            "A3C00BFAE04B23593847509B52811D450F74172B"
+        ]
+    },
+    "17": {
+        "timestamp": 1682812951.4395688,
+        "total_time": 1.517606496810913,
+        "rtt": 0.3015632629394531,
+        "latency": 0.20262,
+        "ttfb": 0.40773,
+        "throughput": 1895.2860582463334,
+        "circ_id": "37",
+        "circuit": [
+            "2717355D1ED1C421E3F8930F721BF2FDABA35CDA",
+            "A26B5FB05F122AC1E24FC9A508EBCF8545492D90",
+            "6A01150EAB04007E2E08D9C603B1467193805B06"
+        ]
+    },
+    "18": {
+        "timestamp": 1682812955.9635167,
+        "total_time": 1.2914514541625977,
+        "rtt": 0.2031552791595459,
+        "latency": 0.200493,
+        "ttfb": 0.299572,
+        "throughput": 2579.4869056835473,
+        "circ_id": "39",
+        "circuit": [
+            "DC7E7D9AB7AD52F03B856E6DC278E9D92BF19B33",
+            "98350B16551452ABC7F3457D06032CD30F7280CE",
+            "6624E6E0C57A63B686D45150787DD56C3D9EE8A8"
+        ]
+    },
+    "19": {
+        "timestamp": 1682812960.2628825,
+        "total_time": 1.9113976955413818,
+        "rtt": 0.3023662567138672,
+        "latency": 0.303552,
+        "ttfb": 0.509088,
+        "throughput": 1518.2255812172123,
+        "circ_id": "41",
+        "circuit": [
+            "19C3526819EE11B8636964F5F465A62EF4F62BF3",
+            "E0917901656ED5B363E4B5B1AFC56150B8857F5C",
+            "DEDF9FEF384AB48F4E7D47FF36A6E2E762FF1FCA"
+        ]
+    },
+    "20": {
+        "timestamp": 1682812965.1798563,
+        "total_time": 1.7413582801818848,
+        "rtt": 0.17494702339172363,
+        "latency": 0.201207,
+        "ttfb": 0.442893,
+        "throughput": 1744.8737280254259,
+        "circ_id": "43",
+        "circuit": [
+            "117286A3F5DF7275F2EB1F28D8AAC72772D84939",
+            "1F04F90765AA57437144A0351AF197341E47DDBB",
+            "A3C00BFAE04B23593847509B52811D450F74172B"
+        ]
+    },
+    "21": {
+        "timestamp": 1682812969.9291418,
+        "total_time": 1.5644564628601074,
+        "rtt": 0.3048288822174072,
+        "latency": 0.299739,
+        "ttfb": 0.402627,
+        "throughput": 1919.6288883039222,
+        "circ_id": "45",
+        "circuit": [
+            "02351FC88D0BF06F6CDE5452656641E6119DBD7E",
+            "E0917901656ED5B363E4B5B1AFC56150B8857F5C",
+            "0CA1B6BC906E5DD6F4CFE322B4BEFE7A17D42D52"
+        ]
+    },
+    "22": {
+        "timestamp": 1682812974.5014849,
+        "total_time": 0.8829138278961182,
+        "rtt": 0.2002410888671875,
+        "latency": 0.142588,
+        "ttfb": 0.302268,
+        "throughput": 2556.7326742497658,
+        "circ_id": "47",
+        "circuit": [
+            "1A81BEE054FE5C6225A0D58169D72924B26E2B59",
+            "8921CB0ECEA669EEF8A2FD20537D58A676F47228",
+            "7C4B37F45CFF88B36C0A77DC3331FA58F29963DB"
+        ]
+    },
+    "23": {
+        "timestamp": 1682812978.3899143,
+        "total_time": 2.217073678970337,
+        "rtt": 0.4066658020019531,
+        "latency": 0.237352,
+        "ttfb": 0.610151,
+        "throughput": 1266.6960535781295,
+        "circ_id": "49",
+        "circuit": [
+            "F0F5074A6DADD3DC22E1FAA18FD6D89CBC52771A",
+            "A33F7DB16AA41823C6148EBF72AFAF9DB2B4ADC7",
+            "29AA617EE5AF59515F206CCE0BF06354CDAD1956"
+        ]
+    },
+    "24": {
+        "timestamp": 1682812983.6156254,
+        "total_time": 1.6166985034942627,
+        "rtt": 0.4041132926940918,
+        "latency": 0.40573,
+        "ttfb": 0.627274,
+        "throughput": 1232.0865297717053,
+        "circ_id": "51",
+        "circuit": [
+            "117286A3F5DF7275F2EB1F28D8AAC72772D84939",
+            "32A43B0C153C2298FDBD24A3B298DA9368DC73B8",
+            "DA9ABAEA49FBF9E75E9EC020380E361688A3B23E"
+        ]
+    },
+    "25": {
+        "timestamp": 1682812988.239976,
+        "total_time": 1.069629192352295,
+        "rtt": 0.3039984703063965,
+        "latency": 0.1998,
+        "ttfb": 0.507603,
+        "throughput": 1522.4897138389,
+        "circ_id": "53",
+        "circuit": [
+            "02351FC88D0BF06F6CDE5452656641E6119DBD7E",
+            "B771269758DC649748360BA8A2D13337F548AA21",
+            "B163ECC611C87C0B375B2256F78E3953F7568AC4"
+        ]
+    },
+    "26": {
+        "timestamp": 1682812992.3181915,
+        "total_time": 2.331123113632202,
+        "rtt": 0.40160369873046875,
+        "latency": 0.221651,
+        "ttfb": 0.419039,
+        "throughput": 1844.1469210142093,
+        "circ_id": "55",
+        "circuit": [
+            "ED99D41F0D1CC7D65758E16448E482744118B9E7",
+            "07816F5EF2E310139C2AF386E6E86BCFDCABFFAB",
+            "5897522C8BCC886A59E3032125DDB1D33A156AB3"
+        ]
+    },
+    "27": {
+        "timestamp": 1682812997.6556118,
+        "total_time": 1.0218236446380615,
+        "rtt": 0.20432662963867188,
+        "latency": 0.139002,
+        "ttfb": 0.287865,
+        "throughput": 2684.0557366917014,
+        "circ_id": "61",
+        "circuit": [
+            "61866162CCDFE651B0D76AA57ECA90B9CC7C80DD",
+            "13809CC1C07828752A248CDBC81869C52E76BEBD",
+            "8678C629D35E2CA6A0D1A3D3F4C5F56134F5EB9A"
+        ]
+    },
+    "28": {
+        "timestamp": 1682813005.5258443,
+        "total_time": 1.5311410427093506,
+        "rtt": 0.3026444911956787,
+        "latency": 0.198519,
+        "ttfb": 0.332324,
+        "throughput": 2325.231620743593,
+        "circ_id": "66",
+        "circuit": [
+            "5D575ADD108DDBBF17E78AD8CB267D6C1F338206",
+            "BFE40143B22C50F4261FC10750633F1731EE0C43",
+            "64455A8D18A789BBFD648D63B038686218D83149"
+        ]
+    }
+}

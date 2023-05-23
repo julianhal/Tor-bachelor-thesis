@@ -1,0 +1,12 @@
+{
+    "anon_60-95": {
+        "modified": {
+            "shannon_entropy": 26.93254,
+            "gini": 0.00738
+        },
+        "vanilla": {
+            "shannon_entropy": 0.02808,
+            "gini": 0.55567
+        }
+    }
+}

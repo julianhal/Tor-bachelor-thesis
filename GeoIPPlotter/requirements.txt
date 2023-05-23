@@ -1,0 +1,11 @@
+matplotlib
+numpy
+pillow
+pygeoip
+pyproj
+pyshp
+geoip2
+basemap-data
+basemap-data-hires
+basemap
+maxmind

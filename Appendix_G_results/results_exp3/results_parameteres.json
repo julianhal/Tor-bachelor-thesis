@@ -1,0 +1,112 @@
+{
+    "flags": {
+        "modified": {
+            "ttfb_median": 0.4560195,
+            "throughput_median": 1697.6108780855343,
+            "rtt_median": 0.21448171138763428,
+            "latency_median": 0.2330685,
+            "ttfb_%_improvement": 11.910607862120253,
+            "throughput_%_improvement": -10.494660768377727,
+            "rtt_%_improvement": 25.297574278662676,
+            "latency_%_improvement": 30.23278554785067
+        },
+        "vanilla": {
+            "ttfb_median": 0.4074855,
+            "throughput_median": 1896.658783329618,
+            "rtt_median": 0.17117786407470703,
+            "latency_median": 0.178963
+        },
+        "ttfb_p_value": 0.481937404023026,
+        "throughput_p_value": 0.09279578952744541,
+        "rtt_p_value": 0.829102224637565,
+        "latency_p_value": 0.3791792905192217
+    },
+    "distance": {
+        "modified": {
+            "ttfb_median": 0.26053950000000003,
+            "throughput_median": 2966.1578226462034,
+            "rtt_median": 0.1209099292755127,
+            "latency_median": 0.13501449999999998,
+            "ttfb_%_improvement": -45.71522628943253,
+            "throughput_%_improvement": 84.19453472587335,
+            "rtt_%_improvement": -32.169550376647834,
+            "latency_%_improvement": -35.92660350182828
+        },
+        "vanilla": {
+            "ttfb_median": 0.47994950000000003,
+            "throughput_median": 1610.339756855747,
+            "rtt_median": 0.178253173828125,
+            "latency_median": 0.2107185
+        },
+        "ttfb_p_value": 0.012354154296728388,
+        "throughput_p_value": 7.342421746285367e-15,
+        "rtt_p_value": 0.0015583704652074276,
+        "latency_p_value": 0.009299026173737224
+    },
+    "bandwidth": {
+        "modified": {
+            "ttfb_median": 0.5885994999999999,
+            "throughput_median": 1313.1199960316774,
+            "rtt_median": 0.26045680046081543,
+            "latency_median": 0.2779735,
+            "ttfb_%_improvement": 36.152024991296756,
+            "throughput_%_improvement": -26.551095098166883,
+            "rtt_%_improvement": 36.46626896509941,
+            "latency_%_improvement": 41.787405731715715
+        },
+        "vanilla": {
+            "ttfb_median": 0.4323105,
+            "throughput_median": 1787.8006456143976,
+            "rtt_median": 0.19085800647735596,
+            "latency_median": 0.1960495
+        },
+        "ttfb_p_value": 0.08285218185672878,
+        "throughput_p_value": 0.00013722555212655394,
+        "rtt_p_value": 0.6281582276850313,
+        "latency_p_value": 0.4060661024155203
+    },
+    "overload": {
+        "modified": {
+            "ttfb_median": 0.5014695,
+            "throughput_median": 1541.2209780039934,
+            "rtt_median": 0.24514055252075195,
+            "latency_median": 0.25289300000000003,
+            "ttfb_%_improvement": 10.47895484737996,
+            "throughput_%_improvement": -9.732396803126552,
+            "rtt_%_improvement": 23.97311930703903,
+            "latency_%_improvement": 10.484524529859842
+        },
+        "vanilla": {
+            "ttfb_median": 0.453905,
+            "throughput_median": 1707.3910499679423,
+            "rtt_median": 0.19773685932159424,
+            "latency_median": 0.2288945
+        },
+        "ttfb_p_value": 0.37035879703147445,
+        "throughput_p_value": 0.14134259907319835,
+        "rtt_p_value": 0.5028258880879285,
+        "latency_p_value": 0.2855165537236683
+    },
+    "combined_60-95": {
+        "modified": {
+            "ttfb_median": 0.272817,
+            "throughput_median": 2832.630741590925,
+            "rtt_median": 0.11641526222229004,
+            "latency_median": 0.125812,
+            "ttfb_%_improvement": -38.37902668419412,
+            "throughput_%_improvement": 62.22990610467907,
+            "rtt_%_improvement": -37.25483393022589,
+            "latency_%_improvement": -42.2371997355469
+        },
+        "vanilla": {
+            "ttfb_median": 0.44273399999999996,
+            "throughput_median": 1746.0595334149834,
+            "rtt_median": 0.18553662300109863,
+            "latency_median": 0.217808
+        },
+        "ttfb_p_value": 3.931156142606236e-13,
+        "throughput_p_value": 1.3870538002336971e-10,
+        "rtt_p_value": 1.4795547342315347e-16,
+        "latency_p_value": 4.424705297941369e-19
+    }
+}
